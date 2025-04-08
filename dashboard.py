@@ -117,4 +117,4 @@ with tab3:
 
 # Footer
 st.markdown("---")
-st.caption("Dashboard creado con Streamlit | Datos actualizados a Marzo 2024")
+st.caption("Dashboard creado con Streamlit | Datos ficticios a los Efectos de la Prueba Abril 2025")
